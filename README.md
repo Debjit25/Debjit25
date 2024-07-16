@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Debjit25
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m a Full Stack Web Developer
 - 📫 How to reach me :debjitmaji123@gmail.com
 
 <!---
